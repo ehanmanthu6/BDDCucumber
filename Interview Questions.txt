@@ -1,0 +1,461 @@
+
+
+===========================================================
+Manual Testing  ===========================================
+===========================================================
+1.Difference between Smoke and Sanity testing?
+Select a Answer
+
+2.How will you do Test case prioritization?
+Select a Answer
+
+3.Define the Bug Life Cycle?
+Select a Answer
+
+4.Difference between Version, Release, and Build?
+Select a Answer
+
+5.Why does software have bugs?
+Select a Answer
+
+6.What are the Severity and Priority?
+Select a Answer
+
+7.What is the difference between bug and defect?
+Select a Answer
+
+8.What are verification and validation?
+Select a Answer
+
+9.With multiple testers how does one know which test cases are assigned to them?
+Select a Answer
+
+10.What is Test Environment?
+Select a Answer
+
+11.Explain are performance testing, load, stress, volume, and soak testing?
+Select a Answer
+
+12.SDLC and STLC?
+Select a Answer
+
+13.Why the developer can’t test the application?
+Select a Answer
+
+14.Difference between Regression and Retesting?
+Select a Answer
+
+
+===========================================================
+JAVA ======================================================
+===========================================================
+
+1.What are iterators, explain with an example
+Select a Answer
+
+2.what is the difference between overloading and overriding?
+Select a Answer
+
+3.What is the difference between Error and exception?
+Select a Answer
+
+4.What is polymorphism?
+Select a Answer
+
+5.Why Java is Platform independent?
+Select a Answer
+
+6.Write a Java program in testing framework
+Select a Answer
+
+7.What is an abstract class?
+Select a Answer
+
+8.What is a vector in Java?
+Select a Answer
+
+9.What is static and Dynamic Polymorphism ?
+Select a Answer
+
+10.What’s the difference between abstract class and interface?
+Select a Answer
+
+11.What is multithreading in Java?
+Select a Answer
+
+12.What is the difference between hash map and Hash table?
+Select a Answer
+
+13.What are collection APIs, give me an example
+Select a Answer
+
+14.Dead lock in Java ?
+Select a Answer
+
+15.What is the difference between array and array list?
+Select a Answer
+
+16.What is the difference between String and String buffer?
+Select a Answer
+
+17.Explain for each loop
+Select a Answer
+
+18.What are the different types of interface? (Ans List, set, Queue)
+Select a Answer
+
+19.What is the difference between Error, throwable and exception?
+Select a Answer
+
+20.What are wrapper class? Give me an example
+Select a Answer
+
+21.Will java supports multiple inheritance?
+Select a Answer
+
+22.What’s the difference between constructor and a method?
+Select a Answer
+
+23.What is the difference between throws and throwable?
+Select a Answer
+
+24.What is Polymorphism and encapsulation?
+Select a Answer
+
+25.How do you access Private variables in different class ?
+Select a Answer
+
+26.What is set in java?
+Select a Answer
+
+27.What is a final keyword in java? how do you use it?
+Select a Answer
+
+28.What are access modifiers? Give me an example?
+Select a Answer
+
+29.What is the difference between final and finally?
+Select a Answer
+
+30.What is boxing and unboxing in Java? Explain with an example
+Select a Answer
+
+31.What is method overloading and Method over riding?
+Select a Answer
+
+32.Why string is Immutable?
+Select a Answer
+
+33.What is an interface?
+Select a Answer
+
+34.How did you handle exceptions?
+Select a Answer
+
+35.What are java exceptions? Give me an example
+Select a Answer
+
+36.What is JVM and explain me the Java memory allocation
+Select a Answer
+
+37.What is a constructor?
+Select a Answer
+
+===========================================================
+Selenium ==================================================
+===========================================================
+1.What is the difference between '/' and '//'?
+Select a Answer
+
+2.How do you handle alert windows?
+Select a Answer
+
+3.How do we handle switching between windows in selenium?
+Select a Answer
+
+4.Difference b/w verify and assert? When assert fails the execution why do you need to use it?
+Select a Answer
+
+5.How you can perform parallel execution in selenium?
+Select a Answer
+
+6.How will you automate web table?
+Select a Answer
+
+7.How do you perform cross browser testing?
+Select a Answer
+
+8.When do we use findElement() and findElements()?
+Select a Answer
+
+9.How do we select drop down content in Selenium?
+Select a Answer
+
+10.What are the different types of waits available in WebDriver? Differences
+Select a Answer
+
+11.How to capture screenshot in WebDriver?
+Select a Answer
+
+===========================================================
+TestNG ====================================================
+===========================================================
+1.How many xml files did you have in your project?can we have more than one?
+Select a Answer
+
+2.How do you ensure if your test is successful or not? (ans:by using assert/ verify)
+Select a Answer
+
+3.How do you do data driven testing?
+Select a Answer
+
+4.How do you run test cases parallely?
+Select a Answer
+
+5.Advantages of testNG over junit?
+Select a Answer
+
+6.can we have dependency among tests? explain with an example
+Select a Answer
+
+7.how do you run only the failed test cases?
+Select a Answer
+
+8.What are the different ways you are aware of running the xml file? (ans: 1. through IDE, Through build tool-maven or ant, through cmd)
+Select a Answer
+
+9.have you prioritized testscripts in your projects?
+Select a Answer
+
+10.Can you convert junit test scripts to testing?how?
+Select a Answer
+
+11.How can you get to know from the reports generated that which  group of test cases are executed and which are not? (ans: using include and exclude tags under grouptags in testing.xml file)
+Select a Answer
+
+12.Have you worked with listeners? Explain
+Select a Answer
+
+13.How can you ignore a testscript in testNg and junit?
+Select a Answer
+
+14.Difference between hard assert and soft assert?
+Select a Answer
+
+15.Why testing with selenium?
+Select a Answer
+
+16.Have you worked with logs in testing? how do you achieve it?
+Select a Answer
+
+17.what is the difference between @before test and @before method as both gets executed before the tests?
+Select a Answer
+
+18.Have you worked with junit?
+Select a Answer
+
+19.Difference between assert and verify?
+Select a Answer
+
+20.Is assert from testing class or selenium class?
+Select a Answer
+
+21.How do you do cross platform testing parallely? (ans:Selenium Grid with testing)
+Select a Answer
+
+22.What is testNg?
+Select a Answer
+
+23.What is the sequence of these annotations?
+Select a Answer
+
+24.How do you group test cases? Example from your project?
+Select a Answer
+
+25.How do you generate reports in testNg? the steps?
+Select a Answer
+
+26.what are the annotations used in your project? Why do you use them?
+Select a Answer
+
+27.Example of assert statements used in your project?
+Select a Answer
+
+28.When Smoke test fails, how do you stop testing other test cases automatically? (ans: using dependency in testing, depend on Groups in @test)
+Select a Answer
+
+29.How do you do cross browser testing?
+Select a Answer
+
+30.How do run or execute your scripts ?
+Select a Answer
+
+
+===========================================================
+Cucumber ==================================================
+===========================================================
+1.What is the purpose of Cucumber Options tag?
+Select a Answer
+
+2.How can Cucumber be integrated with Selenium WebDriver?
+Select a Answer
+
+3.What is a Feature file?
+Select a Answer
+
+4.What is Cucumber? What are the advantages of Cucumber?
+Select a Answer
+
+5.What is the language used for expressing scenario in feature file?
+Select a Answer
+
+6.Give an example of a behavior is driven test in plain text?
+Select a Answer
+
+7.What is the purpose of Examples keyword in Cucumber?
+Select a Answer
+
+8.What is the purpose of Scenario Outline in Cucumber?
+Select a Answer
+
+9.explain the use of Background keyword in Cucumber?
+Select a Answer
+
+10.What is Scenario Outline in feature file?
+Select a Answer
+
+11.What are the two files required to execute a Cucumber test scenario?
+Select a Answer
+
+12.What is BDD?
+Select a Answer
+
+13.Give an example for step definition using “Given” function?
+Select a Answer
+
+14.What is the file extension for a feature file?
+Select a Answer
+
+15.Explain the term step definition in Cucumber
+Select a Answer
+
+16.What is the purpose of Behavior Driven Development (BDD) methodology in the real world?
+Select a Answer
+
+
+===========================================================
+SQL ======================================================
+===========================================================
+1.What is self join and what is the requirement of self join?
+Select a Answer
+
+2.What is the difference between cross joins and natural joins?
+Select a Answer
+
+3.What is the SQL query to display current date?
+Select a Answer
+
+4.What is 'TRIGGER' in SQL?
+Select a Answer
+
+5.How do you find patterns in data and apply it for testing
+Select a Answer
+
+6.What is data modeling? Why is the data modeling important?
+Select a Answer
+
+7.What is a constraint? Tell me about its various levels.
+Select a Answer
+
+8.Discuss the syntax and use of the COALESCE function?
+Select a Answer
+
+9.Briefly describe data type “CHAR” and “VARCHAR2”?
+Select a Answer
+
+10.Which types of join is used in SQL widely?
+Select a Answer
+
+11.What are the usages of SQL?
+Select a Answer
+
+12.Write an SQL query to find names of employee start with 'A'?
+Select a Answer
+
+13.What is the difference between SQL and MySQL or SQL Server and PL/SQL?
+Select a Answer
+
+14.What are relational database properties?
+Select a Answer
+
+15.What is the use of the NULLIF function?
+Select a Answer
+
+16.You want to display a result query from joining two tables with 20 and 10 rows respectively. Erroneously you forget to write the WHERE clause. What would be the result?
+Select a Answer
+
+17.What is a derived table/s?
+Select a Answer
+
+18.If a table contains duplicate rows, does a query result display the duplicate values by default? How can you eliminate duplicate rows from a query result?
+Select a Answer
+
+19.Is a NULL value same as zero or a blank space? If not then what is the difference?
+Select a Answer
+
+20.What are the type of operators available in SQL?
+Select a Answer
+
+21.Does SQL support programming?
+Select a Answer
+
+22.What is column Alias. Can you sort a column using a column alias?
+Select a Answer
+
+23.sql query to join two tables and where primary key and foreign key is customer id  in customer table and salary table where salary should be between 100k and 200k and there is date column in both tables
+Select a Answer
+
+24.What is the purpose of the group functions in SQL? Give some examples of group functions.
+Select a Answer
+
+25.What is the difference between clustered and non clustered index in SQL?
+Select a Answer
+
+26.What is Null value in RDBMS?
+Select a Answer
+
+27.Which expressions or functions allow you to implement conditional processing in a SQL statement?
+Select a Answer
+
+28.What is the difference between DELETE and TRUNCATE statement in SQL?
+Select a Answer
+
+29.What are capabilities of “SELECT” SQL statements?
+Select a Answer
+
+30.Basically SQL statements can be categorized in how many types? And what are they?
+Select a Answer
+
+31.How do you search for a value in a database table when you don’t have the exact value to search for?
+Select a Answer
+
+32.What is the default ordering of data using the ORDER BY clause? How could it be changed?
+Select a Answer
+
+33.What is database? What is DBMS? What is RDBMS? Advantages/Disadvantages
+Select a Answer
+
+34.What are set operators in SQL?
+Select a Answer
+
+35.What is the purpose of the condition operators BETWEEN and IN?
+Select a Answer
+
+36.What is SQL?
+Select a Answer
+
+37.What makes a good data modeling?
+Select a Answer
+
+38.Write an SQL query to get third maximum salary of an employee from a table named employee_table.
+Select a Answer
